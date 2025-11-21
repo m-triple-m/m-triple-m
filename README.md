@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00C0FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Mohammad+Mubassir!;Full+Stack+Developer+%26+Trainer;AI+%26+Automation+Enthusiast;10%2B+Years+Training+Experience;Builder+of+700%2B+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00C0FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Mohammad+Mubassir!;Full+Stack+Developer+%26+Trainer;AI+%26+Automation+Enthusiast;6%2B+Years+Training+Experience;Builder+of+700%2B+Projects" />
 
 # 👋 Welcome to My GitHub!
 ### 🚀 Full Stack Developer | 👨‍🏫 Trainer | 🤖 AI & Automation Builder  
